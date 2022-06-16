@@ -1,17 +1,21 @@
-[![CircleCI](https://circleci.com/gh/omarmohammed19/udagram-api/tree/main.svg?style=svg)](https://circleci.com/gh/omarmohammed19/udagram-api/tree/main)
+[![CircleCI](https://circleci.com/gh/adhamahmed4/udacity-udagram/tree/main.svg?style=svg)](https://circleci.com/gh/adhamahmed4/udacity-udagram/tree/main)
 
 # Udagram
 
-### [Link to Frontend](http://frontend-proj.s3-website-us-east-1.amazonaws.com)
+### [Link to Frontend](http://adham-udagram.s3-website-us-east-1.amazonaws.com)
 
 This application is provided by udacity to implement the deployment skills learned during the course.
 
-### Dependencies
+### App Dependencies
 
 ```
 - Node.js
 
 - npm
+
+- A S3 bucket for hosting uploaded pictures.
+
+- A server running on ElasticBeanstalk.
 
 - AWS CLI
 
@@ -19,12 +23,8 @@ This application is provided by udacity to implement the deployment skills learn
 
 - A RDS database running Postgres.
 
-- A server running on ElasticBeanstalk.
-
-- A S3 bucket for hosting uploaded pictures.
 
 ```
-
 ## Testing
 
 ## Built With
