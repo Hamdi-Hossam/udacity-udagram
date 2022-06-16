@@ -1,4 +1,4 @@
-[![CircleCI](https://circleci.com/gh/adhamahmed4/udacity-udagram/tree/main.svg?style=svg)](https://circleci.com/gh/Hamdi-Hossam/udagram-api/tree/main)
+[![CircleCI](https://circleci.com/gh/adhamahmed4/udacity-udagram/tree/main.svg?style=svg)](https://circleci.com/gh/Hamdi-Hossam/udacity-udagram/tree/main)
 
 # Udagram
 
