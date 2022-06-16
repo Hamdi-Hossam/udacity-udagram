@@ -19,7 +19,7 @@ export class ApiService {
   }
 
   static handleError(error: Error) {
-    alert(error.message);
+    // alert(error.message);
   }
 
   static extractData(res: HttpEvent<any>) {
